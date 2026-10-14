@@ -1,1 +1,11 @@
-# .gitignored
+node_modules/
+.DS_Store
+*.log
+npm-debug.log*
+.env
+.env.*
+shots/
+audit.txt
+/capture.png
+.scratch/
+tmp/
